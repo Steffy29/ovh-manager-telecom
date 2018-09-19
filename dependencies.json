@@ -15,7 +15,8 @@
         "node_modules/ovh-angular-tail-logs/dist/ovh-angular-tail-logs.min.css",
         "node_modules/ovh-angular-timeline/dist/ovh-angular-timeline.css",
         "node_modules/ovh-angular-line-diagnostics/dist/ovh-angular-line-diagnostics.min.css",
-        "node_modules/ovh-ng-input-password/dist/ovh-ng-input-password.css"
+        "node_modules/ovh-ng-input-password/dist/ovh-ng-input-password.css",
+        "node_modules/flag-icon-css/css/flag-icon.min.css"
     ],
     "js": [
         "node_modules/jquery/dist/jquery.js",
